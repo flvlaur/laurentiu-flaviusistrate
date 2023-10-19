@@ -1,2 +1,1 @@
-# laurentiu-flaviusistrate
-Advanced Learning with Moodle
+# Advanced Learning with Moodle
